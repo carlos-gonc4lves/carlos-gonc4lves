@@ -1,4 +1,4 @@
-# Carlos Gonc4lves!
+# Carlos Gonc4lves! 🏴‍☠️
 
 ### 📊 Statistics
 
@@ -10,5 +10,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=carlos-gonc4lves&theme=dark&background=0d1117&border=30A3DC" alt="Streak" />
 </p>
-
----

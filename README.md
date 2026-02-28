@@ -1,6 +1,6 @@
 # Carlos Gonc4lves!
 
-### 📊 Minhas Estatísticas
+### 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-gonc4lves&show_icons=true&theme=dark&include_all_commits=true" alt="Stats" height="150" />
